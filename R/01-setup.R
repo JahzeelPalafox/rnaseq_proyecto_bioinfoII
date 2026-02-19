@@ -14,6 +14,8 @@ library("here")
 dir.create(here::here("plots"), showWarnings = FALSE)
 # Resultados y tablas generadas
 dir.create(here::here("results"), showWarnings = FALSE)
+# Analisis de resultados y más
+dir.create(here::here("docs"), showWarnings = FALSE)
 
 ## 3. Mensajes de confirmación y verificación de ruta
 ## Esto ayuda a verificar si el proyecto se abrió en el lugar correcto
