@@ -3,8 +3,8 @@
 ## Script: 01-setup.R
 ## Propósito: Configurar la estructura de carpetas del proyecto
 ## Autor: Jahzeel
-## Fecha: 2026-02-16.
-##-------------------------------------------------------------------------
+## Fecha: 2026-02-16
+##------------------------------------------------------------------------
 ## 1. Cargar librerías necesarias
 ## 'here' es vital para la reproducibilidad ya que gestiona rutas relativas
 library("here")
